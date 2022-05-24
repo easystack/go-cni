@@ -9,4 +9,6 @@ require (
 	github.com/stretchr/testify v1.6.1
 )
 
+replace github.com/containernetworking/cni => github.com/easystack/cni v0.8.0-es
+
 go 1.13
